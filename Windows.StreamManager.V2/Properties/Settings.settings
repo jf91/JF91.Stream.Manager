@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Windows.StreamManager.V2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">datasource=198.20.117.36;port=3306;Initial Catalog='dswaimuw_sm';username=dswaimuw;password=portugal123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
